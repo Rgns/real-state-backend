@@ -1,0 +1,23 @@
+listingId,realEstateType,street,houseNumber,postcode,city,livingArea,siteArea,rentalPrice,salesPrice,imageURL
+12345,APARTMENT_RENT,Miltonweg,34,10243,Berlin,99,,850,,https://picsum.photos/200/300
+12346,HOUSE_BUY,B235,157-155,44892,Bochum,230,,,560000,https://picsum.photos/150/200
+12456,APARTMENT_RENT,Hauptstraße,23,64839,Münster,75,,798,,https://picsum.photos/200
+43,HOUSE_BUY,Obentrautstr.,67,10963,Bielefeld,145,,,350000,https://picsum.photos/200/175
+33233,APARTMENT_RENT,Andreasstr.,10a,10243,Berlin,87,,900,,
+456,APARTMENT_RENT,Sachsendamm,2,10829,Berlin,67,,700,,https://picsum.photos/200/190
+6342,HOUSE_RENT,Schönfließer Str.,34,10439,Berlin,99,,1200,,
+62477,HOUSE_BUY,Schüßlerplatz,72,12555,Berlin,345,,,1450000,https://picsum.photos/180/176
+534543,HOUSE_BUY,Talweg,11,16225,Eberswalde,219,,,798000,
+64225,APARTMENT_BUY,Usedomer Str.,16b,17034,Neubrandenburg,50,,,90000,
+64563,HOUSE_RENT,Schweizer Straße,24-34,01069,Dresden,134,,1800,,https://picsum.photos/150/200
+8656555,HOUSE_BUY,Zabel-Krüger-Damm,9c,13469,Berlin,142,,,400000,
+76,APARTMENT_RENT,Kainzstr.,34e,12621,Berlin,34,,400,,
+3463,HOUSE_RENT,Travestr.,12,10247,Berlin,122,,1350,,https://picsum.photos/200
+3464,APARTMENT_BUY,Aachener Str.,10,10713,Berlin,119,,,430000,
+36346,APARTMENT_BUY,Quantzstr.,5-9,14129,Berlin,99,,,479000,
+775666,HOUSE_RENT,Zornstr,35,10315,Berlin,146,,2000,,https://picsum.photos/150
+456543,HOUSE_BUY,Am Dornbusch,1,14552,Michendorf,153,,,280000,
+53322,APARTMENT_RENT,Hauptstraße ,14,13127,Berlin,56,,590,,
+7643,APARTMENT_RENT,T2,19-22,68161,Mannheim,73,,750,,
+552322,APARTMENT_RENT,Minna-Todenhagen-Str.,12,12459,Berlin,88,,870,,https://picsum.photos/200
+8567545,APARTMENT_RENT,Uranusstr.,9b,12524,Berlin,32,,600,,
